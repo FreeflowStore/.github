@@ -28,7 +28,7 @@ Discover our top-tier, production-ready systems available right now on the store
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="[https://shields.io](https://freeflowstore.com/_next/image?url=https%3A%2F%2Ffreeflowstore.com%2Fuploads%2Fimages%2F01M0BQF6KENMS3S8PK3J68M148%2F9b604bd6-d09f-4179-8287-8ab49c24c3e7.png&w=1080&q=75)" alt="Premium Bot">
+        <img src="https://freeflowstore.com/_next/image?url=https%3A%2F%2Ffreeflowstore.com%2Fuploads%2Fimages%2F01M0BQF6KENMS3S8PK3J68M148%2F9b604bd6-d09f-4179-8287-8ab49c24c3e7.png&w=1080&q=75" alt="Premium Bot">
       </div>
       <h3>🤖 UnixCoreBot</h3>
       <p>A self-hosted, all-in-one Discord application providing comprehensive server administration architecture.</p>
@@ -40,7 +40,7 @@ Discover our top-tier, production-ready systems available right now on the store
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://shields.io" alt="Premium Roblox">
+        <img src="https://freeflowstore.com/_next/image?url=https%3A%2F%2Fcdn.prod.website-files.com%2F617a5fd2472087fd829b4ee0%2F650e36de2f33d0af31864dd0_LightingPacks.jpg&w=1080&q=75" alt="Premium Roblox">
       </div>
       <h3>⛅ 24+ Premium Lighting Packs</h3>
       <p>A comprehensive environment rendering pack built to dynamically transform atmospheric game aesthetics.</p>
