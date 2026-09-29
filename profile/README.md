@@ -85,5 +85,5 @@ Looking for help with Roblox development or Discord setup? Browse the latest tut
 
 <div align="center">
 <br>
-<sub>Created by UnixDeveloper • Powered by <a href="https://freeflowstore.com">Freeflow</a></sub>
+<sub>Created by UnixDeveloperIsCool • Powered by <a href="https://freeflowstore.com">Freeflow</a></sub>
 </div>
