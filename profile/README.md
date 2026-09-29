@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Clean, Minimalist Header Image Matching White Page Theme & #e70d5e Accent -->
-<img src="https://freeflowstore.com/uploads/images/admin/bf21e705-cec8-457a-b0ba-6721894f3cee.png" width="100%" alt="Freeflow Store Hub">
+<img src="https://freeflowstore.com/uploads/images/admin/f5c28caf-5f2c-48fb-a102-c100efb3992e.png" width="100%" alt="Freeflow Store Hub">
 
 <br>
 
 <!-- High-Conversion Action Buttons Matching Website Navigation Palette -->
-<a href="https://freeflowstore.com"><img src="https://freeflowstore.com/uploads/images/admin/bf21e705-cec8-457a-b0ba-6721894f3cee.png" alt="Freeflow Marketplace"></a>
-<a href="https://discord.com"><img src="https://freeflowstore.com/uploads/images/admin/bf21e705-cec8-457a-b0ba-6721894f3cee.png" alt="Discord"></a>
+<a href="https://freeflowstore.com"><img src="gg.gg"></a>
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 </div>
 
