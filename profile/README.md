@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Clean, Minimalist Header Image Matching White Page Theme & #e70d5e Accent -->
-<img src="https://vercel.app" width="100%" alt="Freeflow Store Hub">
+<img src="https://freeflowstore.com/uploads/images/admin/bf21e705-cec8-457a-b0ba-6721894f3cee.png" width="100%" alt="Freeflow Store Hub">
 
 <br>
 
