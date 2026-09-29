@@ -6,8 +6,8 @@
 <br>
 
 <!-- High-Conversion Action Buttons Matching Website Navigation Palette -->
-<a href="https://freeflowstore.com"><img src="https://shields.io" alt="Freeflow Marketplace"></a>
-<a href="https://discord.com"><img src="https://shields.io" alt="Discord"></a>
+<a href="https://freeflowstore.com"><img src="https://freeflowstore.com/uploads/images/admin/bf21e705-cec8-457a-b0ba-6721894f3cee.png" alt="Freeflow Marketplace"></a>
+<a href="https://discord.com"><img src="https://freeflowstore.com/uploads/images/admin/bf21e705-cec8-457a-b0ba-6721894f3cee.png" alt="Discord"></a>
 
 </div>
 
