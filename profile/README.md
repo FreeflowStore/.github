@@ -28,7 +28,7 @@ Discover our top-tier, production-ready systems available right now on the store
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://shields.io" alt="Premium Bot">
+        <img src="[https://shields.io](https://freeflowstore.com/_next/image?url=https%3A%2F%2Ffreeflowstore.com%2Fuploads%2Fimages%2F01M0BQF6KENMS3S8PK3J68M148%2F9b604bd6-d09f-4179-8287-8ab49c24c3e7.png&w=1080&q=75)" alt="Premium Bot">
       </div>
       <h3>🤖 UnixCoreBot</h3>
       <p>A self-hosted, all-in-one Discord application providing comprehensive server administration architecture.</p>
