@@ -7,7 +7,7 @@
 
 <!-- High-Conversion Action Buttons Matching Website Navigation Palette -->
 <a href="https://freeflowstore.com"><img src="https://img.shields.io/badge/Visit%20Freeflow-E70D5E?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://discord.com/invite/mBNMsnz6eW"><img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 </div>
 
