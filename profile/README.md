@@ -36,7 +36,7 @@ Discover our top-tier, production-ready systems available right now on the store
         <li><b>Core Systems:</b> Modular ticket handling, global economy mechanics, and advanced server security logging.</li>
         <li><b>Deployment:</b> Instant activation framework utilizing swift slash commands.</li>
       </ul>
-      <a href="https://freeflowstore.comresources/discord/discord-bots/unixcorebot"><b>👉 Get UnixCoreBot on Freeflow</b></a>
+      <a href="https://freeflowstore.com/discord/discord-bots/unixcorebot"><b>👉 Get UnixCoreBot on Freeflow</b></a>
     </td>
     <td width="50%" valign="top">
       <div align="center">
@@ -48,7 +48,7 @@ Discover our top-tier, production-ready systems available right now on the store
         <li><b>Versatility:</b> Instantly toggle between stark photorealism settings and stylized fantasy color grading.</li>
         <li><b>Format:</b> Native <code>.rbxl</code> framework files optimized strictly for low draw-calls.</li>
       </ul>
-      <a href="https://freeflowstore.comresources/roblox/model-packs/24-premium-lighting-packs"><b>👉 Get Lighting Packs on Freeflow</b></a>
+      <a href="https://freeflowstore.com/roblox/model-packs/24-premium-lighting-packs"><b>👉 Get Lighting Packs on Freeflow</b></a>
     </td>
   </tr>
 </table>
