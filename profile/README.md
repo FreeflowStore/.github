@@ -36,7 +36,7 @@ Discover our top-tier, production-ready systems available right now on the store
         <li><b>Core Systems:</b> Modular ticket handling, global economy mechanics, and advanced server security logging.</li>
         <li><b>Deployment:</b> Instant activation framework utilizing swift slash commands.</li>
       </ul>
-      <a href="https://freeflowstore.com/discord/discord-bots/unixcorebot"><b>👉 Get UnixCoreBot on Freeflow</b></a>
+      <a href="https://freeflowstore.com/resources/discord/discord-bots/unixcorebot"><b>👉 Get UnixCoreBot on Freeflow</b></a>
     </td>
     <td width="50%" valign="top">
       <div align="center">
@@ -48,7 +48,7 @@ Discover our top-tier, production-ready systems available right now on the store
         <li><b>Versatility:</b> Instantly toggle between stark photorealism settings and stylized fantasy color grading.</li>
         <li><b>Format:</b> Native <code>.rbxl</code> framework files optimized strictly for low draw-calls.</li>
       </ul>
-      <a href="https://freeflowstore.com/roblox/model-packs/24-premium-lighting-packs"><b>👉 Get Lighting Packs on Freeflow</b></a>
+      <a href="https://freeflowstore.com/resources/roblox/model-packs/24-premium-lighting-packs"><b>👉 Get Lighting Packs on Freeflow</b></a>
     </td>
   </tr>
 </table>
@@ -61,10 +61,10 @@ Discover our top-tier, production-ready systems available right now on the store
 **A:** Freeflow is a dedicated digital asset marketplace for creators to buy and sell virtual assets, game-ready 3D models, programming scripts, and developer resources.
 
 #### Q: Where can I download the UnixCoreBot Discord bot?
-**A:** You can get direct, instant access to the full self-hosted package files by visiting the official [UnixCoreBot Product Page](https://freeflowstore.comresources/discord/discord-bots/unixcorebot) on Freeflow.
+**A:** You can get direct, instant access to the full self-hosted package files by visiting the official [UnixCoreBot Product Page](https://freeflowstore.com/resources/discord/discord-bots/unixcorebot) on Freeflow.
 
 #### Q: Does Freeflow provide assets for Roblox Studio?
-**A:** Yes. Freeflow hosts a wide catalog of Roblox developer resources, including professional model packs and the widely popular [24+ Premium Lighting Packs](https://freeflowstore.comresources/roblox/model-packs/24-premium-lighting-packs) available in native `.rbxl` formats.
+**A:** Yes. Freeflow hosts a wide catalog of Roblox developer resources, including professional model packs and the widely popular [24+ Premium Lighting Packs](https://freeflowstore.com/resources/roblox/model-packs/24-premium-lighting-packs) available in native `.rbxl` formats.
 
 #### Q: How do I sell my own digital assets on Freeflow?
 **A:** Creators can easily open a storefront by logging into [freeflowstore.com](https://freeflowstore.com), completing their creator profile dashboard setup, and uploading their files directly for instant delivery.
